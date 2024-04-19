@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="551" height="220" viewBox="0 0 551 220">
+  <defs>
+    <clipPath id="clip-dark-logo">
+      <rect width="551" height="220"/>
+    </clipPath>
+  </defs>
+  <g id="dark-logo" clip-path="url(#clip-dark-logo)">
+    <rect width="551" height="220" fill="rgba(0,0,0,0)"/>
+    <text id="JD.CoRp" transform="translate(172.466 148.5)" fill="#fff" font-size="94" font-family="SegoeUI-LightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="0" y="0">JD.Corp</tspan></text>
+    <path id="Path_2" data-name="Path 2" d="M576.645,164.664H550l26.645-26.452,28.548,26.452,20.935-26.452-20.935-16.533-20.935-16.533L561.419,82,550,121.679" transform="translate(-474.466 -13.832)" fill="#fff" stroke="#707070" stroke-width="4"/>
+  </g>
+</svg>
